@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2a25537c-c1f1-4783-a5f3-244542c32484" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/data_analysis02-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/data_analysis02-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_analysis02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_analysis02.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,19 +14,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/fdic_failed_bank_list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="510" selection-start-line="510" selection-end-line="510" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/examples/Performance_MNR.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1008" />
+        <entry file="file://$PROJECT_DIR$/pandas_exercise.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -47,6 +42,8 @@
         <option value="$PROJECT_DIR$/pandas_test.ipynb" />
         <option value="$PROJECT_DIR$/data_analysis01.ipynb" />
         <option value="$PROJECT_DIR$/data_analysis02.ipynb" />
+        <option value="$PROJECT_DIR$/pandas_written_test.ipynb" />
+        <option value="$PROJECT_DIR$/pandas_exercise.ipynb" />
       </list>
     </option>
   </component>
@@ -68,11 +65,6 @@
             <path>
               <item name="data-analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,12 +118,12 @@
       <workItem from="1697442399779" duration="85000" />
       <workItem from="1697442499225" duration="71000" />
       <workItem from="1697442586700" duration="27000" />
-      <workItem from="1697442631386" duration="6655000" />
+      <workItem from="1697442631386" duration="10469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34928000" />
+    <option name="totallyTimeSpent" value="38742000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -146,7 +138,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16621985" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16621985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -293,6 +285,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/examples/Performance_MNR.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="60" column="38" lean-forward="true" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/examples/fdic_failed_bank_list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -300,9 +299,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/Performance_MNR.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1008" />
+    <entry file="file://$PROJECT_DIR$/pandas_exercise.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
       </provider>
     </entry>
   </component>
